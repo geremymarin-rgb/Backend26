@@ -13,3 +13,8 @@ function multiplicacao(x,y,u) {
     return x*y*u;
 }
 console.log(multiplicacao(5,10,20));
+
+function divisao(x,y) {
+    return x/y;
+}
+console.log(divisao(7,5));
